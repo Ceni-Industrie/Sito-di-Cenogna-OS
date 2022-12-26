@@ -1,0 +1,62 @@
+.t1 {
+    color: white;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+}
+
+.t2 {
+    color: white;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    font-size: medium;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+#Spot {
+    background-color: rgb(14, 14, 14);
+}
+
+.t3 {
+    color: white;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    font-size: small;
+}
+
+.tCorpo {
+    color: white;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    font-size: large;
+}
+
+.Corpo {
+    color: white;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    font-size: medium;
+}
+
+#TitoloCorpo {
+    background-color: rgb(0, 0, 0);
+}
+
+#Corpo {
+    background-color: rgb(14, 14, 14);
+}
+
+#TitoloPrincipale {
+    background-color: rgb(0, 0, 0);
+}
+
+.t4 {
+    color: rgba(255, 255, 255, 0.199);
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    font-size: x-small;
+}
+
+
